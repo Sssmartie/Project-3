@@ -1,0 +1,14 @@
+CollisionShape3D
+StaticBody3D
+Button
+Label
+ColorRect
+Area3D
+GPUParticles3D
+Timer
+RayCast3D
+MeshInstance3D
+AnimationPlayer
+NavigationAgent3D
+CharacterBody3D
+NavigationRegion3D

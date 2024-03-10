@@ -1,0 +1,48 @@
+[gd_scene load_steps=3 format=3 uid="uid://ckl42extulsto"]
+
+[ext_resource type="Script" path="res://Button2.gd" id="1_bij73"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_7mjjr"]
+font_size = 128
+
+[node name="Endscreen" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_right = 1150.0
+offset_bottom = 646.0
+color = Color(0.305882, 0.556863, 0.294118, 1)
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 288.0
+offset_top = 16.0
+offset_right = 871.0
+offset_bottom = 226.0
+text = "You Won!"
+label_settings = SubResource("LabelSettings_7mjjr")
+
+[node name="Label2" type="Label" parent="."]
+layout_mode = 0
+offset_left = 80.0
+offset_top = 200.0
+offset_right = 1074.0
+offset_bottom = 410.0
+text = "The Enemy Died"
+label_settings = SubResource("LabelSettings_7mjjr")
+
+[node name="Button2" type="Button" parent="."]
+layout_mode = 0
+offset_left = 232.0
+offset_top = 384.0
+offset_right = 912.0
+offset_bottom = 608.0
+theme_override_font_sizes/font_size = 72
+text = "Play Again?"
+script = ExtResource("1_bij73")

@@ -1,0 +1,6 @@
+res://World.tscn
+res://Area3D.gd
+res://gun.tscn
+res://bullet.tscn
+res://control.tscn
+res://endscreen.tscn

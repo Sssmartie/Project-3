@@ -1,0 +1,124 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710060045
+2110.w032.n003.153B.p1.153.jpg::CompressedTexture2D::3867273544084777662::1709961582::1709961590::1::::<><>::
+Area3D.gd::GDScript::-1::1710059674::0::1::::<>Area3D<>::
+brown-stone-seamless-background_175250-165.png::CompressedTexture2D::7058820936439429781::1709961683::1709961685::1::::<><>::
+bullet.gd::GDScript::-1::1710043732::0::1::::<>Node3D<>::
+bullet.tscn::PackedScene::2714412910876166684::1710059674::0::1::::<><>::res://bullet.gd
+Button2.gd::GDScript::-1::1710043539::0::1::::<>Button<>::
+Button.gd::GDScript::-1::1710043507::0::1::::<>Button<>::
+cartoon_gun.glb::PackedScene::2283239556127675872::1710035456::1710035490::1::::<><>::uid://dgu4hgtw6lh76::::res://cartoon_gun_0.png
+cartoon_gun_0.png::CompressedTexture2D::7623456306869086787::1710035490::1710035490::1::::<><>::
+control.tscn::PackedScene::6096364672901531796::1710059774::0::1::::<><>::res://Button.gd
+ControlledPlayer.gd::GDScript::-1::1710038850::0::1::::<>CharacterBody3D<>::
+endscreen.tscn::PackedScene::5499247214801198868::1710059674::0::1::::<><>::res://Button2.gd
+export_presets.cfg::TextFile::-1::1710059932::0::1::::<><>::
+gun.tscn::PackedScene::8549279342233418247::1710059674::0::1::::<><>::uid://7save6kvuri3::::res://cartoon_gun.glb
+icon.svg::CompressedTexture2D::9024170967000264029::1709960528::1709960545::1::::<><>::
+index.apple-touch-icon.png::CompressedTexture2D::6472497551132822167::1710059931::1710059938::1::::<><>::
+index.icon.png::CompressedTexture2D::4177438760735565109::1710059931::1710059938::1::::<><>::
+index.png::CompressedTexture2D::8527147425629783088::1710059931::1710059938::1::::<><>::
+NPC.gd::GDScript::-1::1710043965::0::1::::<>CharacterBody3D<>::
+npc.tscn::PackedScene::4355160747739358382::1710043931::0::1::::<><>::res://npc.gd<>uid://cfshllojdarys::::res://Screenshot_2024-03-10_at_09.42.30-removebg-preview.png<>res://Area3D.gd
+Project 3.apple-touch-icon.png::CompressedTexture2D::6635812801416102361::1710059856::1710059907::1::::<><>::
+Project 3.icon.png::CompressedTexture2D::3202413087137229702::1710059856::1710059907::1::::<><>::
+Project 3.png::CompressedTexture2D::646997166732315945::1710059855::1710059907::1::::<><>::
+road_2.tscn::PackedScene::5236039633011726605::1709997857::0::1::::<><>::uid://c0hs45qusgap6::::res://GLB format/road.glb
+Screenshot_2024-03-10_at_09.42.30-removebg-preview.png::CompressedTexture2D::5161389647628820822::1710035003::1710035044::1::::<><>::
+World.tscn::PackedScene::1853745664249775982::1710059674::0::1::::<><>::uid://c7tl0qo85rjkv::::res://brown-stone-seamless-background_175250-165.png<>uid://cgum2p1h0woun::::res://road_2.tscn<>uid://ccjb24qo17o25::::res://GLB format/brick-wall.glb<>uid://p16mwm4feknk::::res://GLB format/brick-wall-curve.glb<>uid://q23dg7kehfj3::::res://GLB format/crypt-large.glb<>uid://ddm36h303tw6p::::res://GLB format/crypt-large-roof.glb<>uid://bpu5v6ecgj63d::::res://GLB format/crypt-small-entrance-alternative.glb<>uid://bdtl6oc01uww3::::res://GLB format/crypt-door.glb<>uid://b5etax0v1vmhf::::res://GLB format/pine.glb<>uid://cdh02jrhu6udl::::res://GLB format/pumpkin-carved.glb<>uid://cr5myvlrdxbn::::res://GLB format/pumpkin-tall-carved.glb<>uid://dnhfgyfp31oyp::::res://GLB format/rocks-tall.glb<>uid://b3bw4jtlbp6ak::::res://npc.tscn<>res://ControlledPlayer.gd<>uid://b2qr118u1bjur::::res://GLB format/cap.glb<>uid://7save6kvuri3::::res://cartoon_gun.glb
+::res://GLB format/::1710035019
+altar-stone.glb::PackedScene::6191376726477927644::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+altar-wood.glb::PackedScene::4723256908033724810::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+bench-damaged.glb::PackedScene::1213342481823986931::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+bench.glb::PackedScene::1095383637603299759::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+border-pillar.glb::PackedScene::4606599068296353067::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+brick-wall-curve-small.glb::PackedScene::7542823737580634749::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+brick-wall-curve.glb::PackedScene::1108411307854493436::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+brick-wall-end.glb::PackedScene::4907916871986213214::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+brick-wall.glb::PackedScene::4931908936443143884::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+candle-multiple.glb::PackedScene::5893597746884009084::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+candle.glb::PackedScene::4201170357934695788::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+cap.glb::PackedScene::4315629543032642117::1710034575::1710034591::1::::<><>::
+character-digger.glb::PackedScene::1000892173113764626::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+character-ghost.glb::PackedScene::2901594762980516343::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+character-skeleton.glb::PackedScene::4213908688496197825::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+character-vampire.glb::PackedScene::7766490110151702168::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+character-zombie.glb::PackedScene::188370462743608754::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+coffin-old.glb::PackedScene::6965205071650902130::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+coffin.glb::PackedScene::8137189177344769695::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+column-large.glb::PackedScene::8434721650929360752::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+cross-column.glb::PackedScene::4788583086912159751::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+cross-wood.glb::PackedScene::7358045235703201188::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+cross.glb::PackedScene::6505311319980057646::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-door.glb::PackedScene::2636934378053770304::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-large-roof.glb::PackedScene::7396356962542681341::1709961958::1709961965::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-large.glb::PackedScene::1180465495781130778::1709961958::1709961965::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-small-entrance-alternative.glb::PackedScene::3482401539302130591::1709961958::1709961965::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-small-entrance.glb::PackedScene::5846980088836041951::1709961958::1709961965::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-small-roof.glb::PackedScene::859440306704281839::1709961958::1709961965::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt-small.glb::PackedScene::6580707111326368216::1709961958::1709961965::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+crypt.glb::PackedScene::2117796480960373828::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+debris-wood.glb::PackedScene::2243038932947507029::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+debris.glb::PackedScene::7088605873754990191::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+detail-bowl.glb::PackedScene::3458311386041030234::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+detail-chalice.glb::PackedScene::8705724241377118779::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+detail-plate.glb::PackedScene::7200565128973845860::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+fence-damaged.glb::PackedScene::3703542643937834109::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+fence-gate.glb::PackedScene::5928092119370672097::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+fence.glb::PackedScene::421426196769379322::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+fire-basket.glb::PackedScene::8383198822303041264::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+grave-border.glb::PackedScene::8663752147579701050::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+grave.glb::PackedScene::3908220965823186306::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-bevel.glb::PackedScene::5403623868242330639::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-broken.glb::PackedScene::5651070231766726992::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-cross-large.glb::PackedScene::8028772473648475442::1709961958::1709961964::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-cross.glb::PackedScene::1449795417215554042::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-debris.glb::PackedScene::1440507879066829905::1709961958::1709961963::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-decorative.glb::PackedScene::6251729529064334196::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-flat-open.glb::PackedScene::1616854344645887870::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-flat.glb::PackedScene::8604157562552269275::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-roof.glb::PackedScene::1501680950057082974::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-round.glb::PackedScene::4194548324458795537::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+gravestone-wide.glb::PackedScene::1148089708854785914::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+hay-bale-bundled.glb::PackedScene::7622658208674073687::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+hay-bale.glb::PackedScene::3595776330913635433::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-bar.glb::PackedScene::3177244503095952140::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-border-column.glb::PackedScene::1827214503014825604::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-border-curve.glb::PackedScene::5113316070087392818::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-border-gate.glb::PackedScene::7339535260844583748::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-border.glb::PackedScene::8114830334219539417::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-curve.glb::PackedScene::7823142070610976953::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence-damaged.glb::PackedScene::7621249964135348286::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+iron-fence.glb::PackedScene::308740731884415032::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+lantern-candle.glb::PackedScene::5841854664275766286::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+lantern-glass.glb::PackedScene::2754810203588216158::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+lightpost-all.glb::PackedScene::5223562208103087346::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+lightpost-double.glb::PackedScene::799313581407721698::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+lightpost-single.glb::PackedScene::8261696349734507818::1709961958::1709961959::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pillar-large.glb::PackedScene::262800464310974900::1709961958::1709961958::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pillar-obelisk.glb::PackedScene::8184797538548366361::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pillar-small.glb::PackedScene::2845958706649018648::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pillar-square.glb::PackedScene::6034440243756836779::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pine-crooked.glb::PackedScene::9114226897055604907::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pine-fall-crooked.glb::PackedScene::7446642532031004928::1709961958::1709961962::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pine-fall.glb::PackedScene::3223163500122966365::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pine.glb::PackedScene::4501498374359766347::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pumpkin-carved.glb::PackedScene::4999425183151154201::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pumpkin-tall-carved.glb::PackedScene::177316341928881747::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pumpkin-tall.glb::PackedScene::3862123858197992659::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+pumpkin.glb::PackedScene::4829062596192682951::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+road.glb::PackedScene::6543159397858842349::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+rocks-tall.glb::PackedScene::8086483231383817511::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+rocks.glb::PackedScene::7088340070613320823::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+Screenshot_2024-03-10_at_09.42.30-removebg-preview.png::CompressedTexture2D::4091631346695383933::1710035019::1710035019::1::::<><>::
+shovel-dirt.glb::PackedScene::270420547041907146::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+shovel.glb::PackedScene::3818956026853341952::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+stone-wall-column.glb::PackedScene::5446238518528244643::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+stone-wall-curve.glb::PackedScene::4954481224300871839::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+stone-wall-damaged.glb::PackedScene::5840921943957612377::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+stone-wall.glb::PackedScene::8093474590859266510::1709961958::1709961961::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+trunk-long.glb::PackedScene::4645364308230378073::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+trunk.glb::PackedScene::5810532484154598253::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+urn.glb::PackedScene::3931887746076672698::1709961958::1709961960::1::::<><>::uid://djpy30vd834kb::::res://GLB format/Textures/colormap.png
+::res://GLB format/Textures/::1709961965
+colormap.png::CompressedTexture2D::7823435865894409561::1709961958::1709961965::1::::<><>::

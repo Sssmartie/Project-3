@@ -1,0 +1,31 @@
+[gd_scene load_steps=5 format=3 uid="uid://bew48ptsy2vwe"]
+
+[ext_resource type="Script" path="res://bullet.gd" id="1_o7kdl"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_cqwta"]
+albedo_color = Color(0.262745, 0.262745, 0.262745, 1)
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_ipyme"]
+material = SubResource("StandardMaterial3D_cqwta")
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_wsewh"]
+albedo_color = Color(0.333333, 0.333333, 0.333333, 1)
+emission_enabled = true
+emission = Color(0.372549, 0.372549, 0.372549, 1)
+emission_energy_multiplier = 5.0
+
+[node name="Bullet" type="Node3D"]
+script = ExtResource("1_o7kdl")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(-1.31134e-07, -3, 1.04636e-15, 3, -1.31134e-07, -1.04636e-15, 1.04636e-15, 1.04636e-15, 3, -0.00273705, -0.0108638, 0.0217996)
+mesh = SubResource("CapsuleMesh_ipyme")
+surface_material_override/0 = SubResource("StandardMaterial3D_wsewh")
+
+[node name="RayCast3D" type="RayCast3D" parent="."]
+target_position = Vector3(100, 2.08165e-12, 2.08165e-12)
+collide_with_areas = true
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 10.0
+autostart = true

@@ -1,0 +1,35 @@
+[gd_scene load_steps=7 format=3 uid="uid://b3bw4jtlbp6ak"]
+
+[ext_resource type="Script" path="res://npc.gd" id="1_ajewu"]
+[ext_resource type="Texture2D" uid="uid://cfshllojdarys" path="res://Screenshot_2024-03-10_at_09.42.30-removebg-preview.png" id="2_hhhme"]
+[ext_resource type="Script" path="res://Area3D.gd" id="3_uinth"]
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_oujlx"]
+albedo_texture = ExtResource("2_hhhme")
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_4v4q7"]
+material = SubResource("StandardMaterial3D_oujlx")
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_wbgm8"]
+
+[node name="NPC" type="CharacterBody3D"]
+script = ExtResource("1_ajewu")
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+transform = Transform3D(0.5, 0, 0, 0, 0.5, 0, 0, 0, 0.5, 0.000572443, 0.00379622, -0.000685096)
+mesh = SubResource("CapsuleMesh_4v4q7")
+
+[node name="NavigationAgent3D" type="NavigationAgent3D" parent="."]
+
+[node name="Area3D" type="Area3D" parent="." groups=["enemy"]]
+script = ExtResource("3_uinth")
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Area3D"]
+transform = Transform3D(0.52, 0, 0, 0, 0.52, 0, 0, 0, 0.52, 0, 0, 0)
+shape = SubResource("CapsuleShape3D_wbgm8")
+
+[node name="CollisionShape3D2" type="CollisionShape3D" parent="."]
+transform = Transform3D(0.52, 0, 0, 0, 0.52, 0, 0, 0, 0.52, 0, 0, 0)
+shape = SubResource("CapsuleShape3D_wbgm8")
+
+[connection signal="body_part_hit" from="Area3D" to="." method="_on_area_3d_body_part_hit"]
